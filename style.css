@@ -1,0 +1,15 @@
+#formcolum {
+    margin: 30px;
+    border-radius: 10px;
+    padding: 50px;
+    background-color: orange;
+}
+
+footer a{
+    text-decoration: none
+}
+
+footer a:hover{
+    color: orange;
+}
+
